@@ -3,3 +3,5 @@ asp. net web api to track user weights for a fitness app I am developing for per
 I still have a lot of refactoring and testing to do so this is not complete
 I will be creating a front end applicaition to handle and store user data 
 in a microsoft azure sql database
+
+this app use microsoft identity to authenticate user users 
